@@ -1,0 +1,15 @@
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/bin/Debug/net8.0/CircusTrain
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/bin/Debug/net8.0/CircusTrain.deps.json
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/bin/Debug/net8.0/CircusTrain.runtimeconfig.json
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/bin/Debug/net8.0/CircusTrain.dll
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/bin/Debug/net8.0/CircusTrain.pdb
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/obj/Debug/net8.0/CircusTrain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/obj/Debug/net8.0/CircusTrain.AssemblyInfoInputs.cache
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/obj/Debug/net8.0/CircusTrain.AssemblyInfo.cs
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/obj/Debug/net8.0/CircusTrain.csproj.CoreCompileInputs.cache
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/obj/Debug/net8.0/CircusTrain.dll
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/obj/Debug/net8.0/refint/CircusTrain.dll
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/obj/Debug/net8.0/CircusTrain.pdb
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/obj/Debug/net8.0/CircusTrain.genruntimeconfig.cache
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/obj/Debug/net8.0/ref/CircusTrain.dll
+/Users/jayv/Projects/Circus/CircusSolution/CircusTrain/obj/Debug/net8.0/CircusTrain.sourcelink.json
