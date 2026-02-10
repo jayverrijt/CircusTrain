@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CircusTrain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f087d02e23e606113a96bd734ede1c11903607ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27e9d17455ac9e05412490e8423bb6d6a0820920")]
 [assembly: System.Reflection.AssemblyProductAttribute("CircusTrain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CircusTrain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

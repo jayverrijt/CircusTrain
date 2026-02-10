@@ -1,4 +1,3 @@
-using System;
 using CircusTrain.Enums;
 using CircusTrain.Models;
 
@@ -55,7 +54,7 @@ namespace CircusTrain.Ui
                     return AnimalTypes.All[choice - 1];
                 }
 
-                Console.WriteLine("\n❌ Invalid selection. Please choose a number from the list.\n");
+                Console.WriteLine("\nInvalid selection. Please choose a number from the list.\n");
             }
         }
          public static AnimalDefinition ReadAnimalDefinitionWithOther()
@@ -89,7 +88,7 @@ namespace CircusTrain.Ui
                         }
                     }
 
-                    Console.WriteLine("\n❌ Invalid selection.\n");
+                    Console.WriteLine("\nInvalid selection.\n");
                 }
          }
 
@@ -104,7 +103,7 @@ namespace CircusTrain.Ui
                  if (!string.IsNullOrWhiteSpace(name))
                      break;
 
-                 Console.WriteLine("❌ Animal name cannot be empty.");
+                 Console.WriteLine("Animal name cannot be empty.");
              }
 
              Diet diet = ReadDiet();

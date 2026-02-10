@@ -1,5 +1,4 @@
-﻿using System;
-using CircusTrain.Ui;
+﻿using CircusTrain.Ui;
 
 namespace CircusTrain
 {

@@ -1,4 +1,3 @@
-using System;
 using CircusTrain.Models;
 using CircusTrain.Services;
 

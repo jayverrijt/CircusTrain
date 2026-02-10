@@ -1,8 +1,6 @@
-using System;
 using CircusTrain.Enums;
 using CircusTrain.Models;
 using CircusTrain.Services;
-using CircusTrain.Ui;
 
 namespace CircusTrain.Ui
 {
