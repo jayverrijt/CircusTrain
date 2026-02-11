@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using CircusTrain.Models;
 
 namespace CircusTrain.Services
